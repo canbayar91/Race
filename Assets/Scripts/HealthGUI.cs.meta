@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1687ad6241f3fab49ba96b6e62a153d5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - health_100: {fileID: 2800000, guid: 879cff798332171408a7237e652c0efe, type: 3}
+  - health_75: {fileID: 2800000, guid: 17e9db9482df56843b0fb947e9357397, type: 3}
+  - health_50: {fileID: 2800000, guid: 34a9cb3788ba5784abf57e64e4adf00f, type: 3}
+  - health_25: {fileID: 2800000, guid: 5477e854181e52e48b43685ba914255b, type: 3}
+  - health_00: {fileID: 2800000, guid: 7e1c3b3e6c5709f4088bf4a5937a32a5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

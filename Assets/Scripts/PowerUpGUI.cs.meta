@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c191c765661e4fe4abb27e757caa74b1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - powerUpProjectile: {fileID: 2800000, guid: 032bfd99baf7d184d8f7454b72cba3fd, type: 3}
+  - powerUpTrap: {fileID: 2800000, guid: 4deaa3c42c1ab8847854cb7bea2928a5, type: 3}
+  - powerUpBoost: {fileID: 2800000, guid: 1787b77796d95bc469cb834a6aa07067, type: 3}
+  - powerUpNone: {fileID: 2800000, guid: 0f278c46f22224a4c953dd242ceb4b57, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
